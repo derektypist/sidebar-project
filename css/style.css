@@ -2,3 +2,30 @@
 body {
     font-family: "Roboto", Arial, Verdana, sans-serif;
 }
+
+/* Sidebar */
+.sidebar-toggle {
+    position: fixed;
+    top: 2rem;
+    right: 3rem;
+    font-size: 2rem;
+    background: transparent;
+    border-color: transparent;
+    color: hsl(205, 78%, 60%);
+    cursor: pointer;
+    animation: bounce 2s ease-in-out infinite;
+}
+
+@keyframes bounce {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.5);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
