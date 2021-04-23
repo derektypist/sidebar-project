@@ -22,6 +22,8 @@ h4 a:hover {
 .container {
     width: 80vw;
     max-width: 620px;
+    position: absolute;
+    top: 20px;
 }
 
 .title {
