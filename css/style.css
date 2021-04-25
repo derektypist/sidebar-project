@@ -31,10 +31,10 @@ main {
     place-items: center;
 }
 
-main .container {
+.container {
     padding-left: 700px;
     max-width: 620px;
-    width: 80vw;
+    width: calc(80vw-100px);
 }
 
 .contents {
