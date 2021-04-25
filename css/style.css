@@ -20,6 +20,7 @@ h4 a:hover {
 }
 
 .container {
+    width: 80vw;
     padding-left: 410px;
 }
 
