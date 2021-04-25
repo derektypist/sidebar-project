@@ -20,7 +20,7 @@ h4 a:hover {
 }
 
 .container {
-    width: 80vw;
+    width: calc(80vw-400px);
     max-width: 620px;
 }
 
