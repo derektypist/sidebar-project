@@ -22,9 +22,6 @@ h4 a:hover {
 .container {
     width: 80vw;
     max-width: 620px;
-    position: absolute;
-    top: 20px;
-    left: 450px;
 }
 
 .title {
@@ -36,6 +33,7 @@ main {
     min-height: 100vh;
     display: grid;
     place-items: center;
+    padding-left: 410px;
 }
 
 /* Sidebar */
