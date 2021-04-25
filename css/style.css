@@ -32,9 +32,9 @@ main {
 }
 
 .container {
-    padding-left: 700px;
+    margin-left: 50%;
     max-width: 620px;
-    width: calc(80vw-100px);
+    ;
 }
 
 .contents {
@@ -127,7 +127,7 @@ main {
     left: 0;
     width: 50%;
     height: 100%;
-    background: white;
+    background: lightblue;
     display: grid;
     grid-template-rows: auto 1fr auto;
     row-gap: 1rem;
