@@ -40,8 +40,7 @@ main {
 .container {
     margin-left: 55%;
     max-width: 620px;
-    position: relative;
-    top: 50px;
+    padding-top: 65px;
 }
 
 .contents {
