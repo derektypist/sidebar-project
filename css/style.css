@@ -146,3 +146,8 @@ main {
         width: 400px;
     }
 }
+
+/* Style of List Items for Home Page, Projects and Contact */
+#home-description {
+    list-style-type: square;
+}
