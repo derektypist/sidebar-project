@@ -40,14 +40,14 @@ main {
 .container {
     margin-left: 55%;
     max-width: 620px;
-    padding-top: 65px;
+    padding-top: 3rem;
 }
 
 @media screen and (min-width: 676px) {
     .container {
         margin-left: 430px;
         max-width: 620px;
-        padding-top: 65px;
+        padding-top: 3rem;
     }
 }
 
