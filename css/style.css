@@ -43,6 +43,14 @@ main {
     padding-top: 65px;
 }
 
+@media screen and (min-width: 676px) {
+    .container {
+        margin-left: 430px;
+        max-width: 620px;
+        padding-top: 65px;
+    }
+}
+
 .contents {
     padding: 1rem 2rem;
 }
