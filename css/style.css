@@ -172,7 +172,7 @@ main {
 }
 
 .indent {
-    position: relative;
+    position: absolute;
     left: 25px;
 }
 
