@@ -161,7 +161,7 @@ main {
 }
 
 /* Style of List Items for Home Page, Projects and Contact */
-#home-description, .project-list {
+#home-description, .project-list .contact-list {
     list-style-type: square;
 }
 
@@ -186,5 +186,29 @@ main {
 }
 
 .contents .project-icons a:hover {
+    color: #A30057;
+}
+
+/* Contact Page */
+.professional-links li a {
+    text-decoration: none;
+    color: #006100;
+}
+
+.professional-links li a:hover {
+    text-decoration: none;
+    color: #A30057;
+}
+
+.professional-social-icons {
+    display: flex;
+}
+
+.professional-social-icons a {
+    color: #006100;
+    margin: 0 0.5rem;
+}
+
+.professional-social-icons a:hover {
     color: #A30057;
 }
