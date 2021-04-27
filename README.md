@@ -35,6 +35,9 @@ In the contact page, there are links to professional associations (e.g. British 
 
 ## Credits
 
+WebAIM for checking contrast.
+
 ### Acknowledgements
 - [FreeCodeCamp](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=1825s)
 - [John Smilga](https://github.com/john-smilga/javascript-basic-projects)
+- [WebAIM](https://www.webaim.org/resources/contrastchecker)
