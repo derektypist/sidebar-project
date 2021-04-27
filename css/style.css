@@ -166,6 +166,10 @@ main {
 }
 
 /* Projects */
+
+.project-list {
+    font-family: "Roboto Mono", "Courier New", monospace;
+}
 .contents .project-icons {
     display: inline-flex;
 }
