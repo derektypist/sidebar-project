@@ -164,3 +164,17 @@ main {
 #home-description, .project-list {
     list-style-type: square;
 }
+
+/* Projects */
+.contents .project-icons {
+    display: inline-flex;
+}
+
+.contents .project-icons a {
+    margin: 0 0.5rem;
+    color: #005757;
+}
+
+.contents .project-icons a:hover {
+    color: #A30057;
+}
