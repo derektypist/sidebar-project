@@ -141,7 +141,7 @@ main {
     left: 0;
     width: 50%;
     height: 100%;
-    background: hsl(0,6%,95%);
+    background: rgba(230,230,250,0.7);
     display: grid;
     grid-template-rows: auto 1fr auto;
     row-gap: 1rem;
@@ -161,6 +161,6 @@ main {
 }
 
 /* Style of List Items for Home Page, Projects and Contact */
-#home-description {
+#home-description, .project-list {
     list-style-type: square;
 }
