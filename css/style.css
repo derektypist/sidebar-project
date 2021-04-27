@@ -170,6 +170,12 @@ main {
 .project-list {
     font-family: "Roboto Mono", "Courier New", monospace;
 }
+
+.indent {
+    position: relative;
+    left: 25px;
+}
+
 .contents .project-icons {
     display: inline-flex;
 }
